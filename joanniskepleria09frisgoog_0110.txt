@@ -1,0 +1,71 @@
+100 De Figuratum Harmonicarum
+
+hexagoni et FG decagoni, hoc est semidiametrnm AG et sectae majorem partem AO
+simul. Haec demonstratio in Euclide difficultatem habet eaptus; tentabo igitur hic -
+
+faciliorem.
+.·A terminis lateris pentagonici B, D ducantur per A centrum rectae BG et DI:
+' “ ει ιιι DB subtendit ἧς, sic proxima DL tres et ΒΚ quatuor
+¹³¹⁸· ¹⁴· subtendit, secantes BG in S, R punctis. Igitur LDI angulus,
+. Β, Ἦ id est SDA, habet ξ unius recti, quia LI est ᾗ circuli, sicut
+goa-..4 et ΕΗ, ει vero aequalibus arcubus anguli ad circumferentiam
+' ’ ,. ἕῇκπςχζ, , insistunt aequales (Eucl.111.21.27..·) Est vei-o DAB, id est
+Uss-ga- Ἣ -ῂζῑ-ῘἨ DAS ξ unius recti, quia DB pars quint& 08¹² ῦπῢῑῑῙῑ mmm·
+’·--Τχ rantis quatuor rectos circa A, juncti igitur SAD, ADS sunt
+
+[a ΙΙ -. - ‘ ³133), ξ ιιιιιιιε recti. At omnes tres sunt Ψ· ergo etiam residuus
+.4. “’ 'pff—4³³ DSA est ξ. Εει igitur DSA aequalis- -ipsi DAS, l'atua igitur
+ι· aa* ιι DS aequale εει lateri DA semidiametro. Ergo. per print flea
+
+midiametri DA proportionaliter sectae pars major aequat SA,
+est igitur SA aequalis lateri decagoni, per dicta Et DA est semidiameter, latus sc.
+hexagoni.
+
+Dieo, latus pentagoni DB posse utramque et SA et AD. connexo enim K cum S
+et cum A, quia DA, ΑΚ ειιιιι aequales, et DS, ΒΚ iisdem aequales, erunt et partas
+BR, ΒΑ aequales, et DRB rectus εει. Ergo DB potest DR, RB. Atqui DR minus ,
+potest quam DA quantitate potentiae RA, ει BR minus potest quam BA quantitate
+et rectanguli snb BR, ΒΑ bis, et potentiae ipsius RA ,junctorum Jnuctae igitur po· Ι
+. tentiae DR, RB minores sunt jnnctis potentiis ·DA, AB rectangulo sub RA, AB bis,
+hoc est rectangulo sub SA, AB semel. Atqui duo rectangula sub SA, AB et sub SB,
+·BA constituunt totum quadratum BA. Ablato ergo rectangulo sub SA, AB, relinqui-
+> tur quadratum ipsius DA et rectangulum sub SB, BA, ,iunctaque aequantur qua-
+drato DB. Cum vero BA semidiameter sit proportionaliter secta in S et pars major
+AS: rectangulum igitur SA, BA εει aequale quadrato SA. Ergo latus pentagoni po-
+test duo quadrata DA et AS, laterum scilicet hexagoni et decagoni. θ
+
+Quod attinet stellae pentagonicae latus BF, illud est compositum ex BD vel
+FT, latere pentagoni, et ex BT, eju's secti proportionaliter parte majori, per XIII 8,
+quod idem etiam probari potest ex triangulo quinquangulari ΕΒΗ, ιιι supra. · ,
+
+Cum igitur latus pentagoni possit semidiametrum‚ quae est effabilis longitudine,
+
+' et eius sectae proportionaliter partem majorem, ut in schemate praemisso semicircu-
+
+’ῑιπι (s) Pe potest PA et Ae, et ut ΡΑ est ao AG, sic sit Pe latus pentagoni ad latua
+suae stellae, sit vero ut ΡΑ ad AG, sic PG ad GX. ergo Gx est· illud latus stellae
+potestque et GA semidiametrum circuli circa figuram decangulam, et AX compositam
+ex PA ει AG‘. Quare per ibi demonstrata GX est mizon, GP elasson. Singulae igi-
+·tur sunt in octavo gradu scientiae ejusque secundo ordine. Quia vero junctae lineae
+PG, ΟΧ faciunt quadratorum summam affabilem, sc. aequalem quadrato PX, quod εει
+ipsius GA effabilis quadrati quintuplum, eaedemque PG, GX rectangulum formant me-
+som hoc nomine junctae PG, GX sunt in gradu scientiae sexto, de quo est 18. prae·
+missa. Denique qnia latus pentagoni et latus stellae sunt ut sectionis divinae pars
+maior ει tota, ideo sunt etiam in gradu scientiae quarto, junctae invicem (vide 29.
+huius).·Coi1sequitur autem has proprietates, ut sicut pentagoni latus est classen,
+stellae mizon, sic etiam composita ex utroque sit iterum mizon5 et latus pentagoni sit
+hujus compositae, ut miconis, elementum minus, latus vero stellae sit illius elementum
+
+majus3 et ut etiam differentia inter utrumque latus sit aliqua elasson, scillcet DQ vel ·
+
+ι QF, per eandem 29. huius.
+
+XLIII. Propositio. Plana decagoni et pentagoni cadunt in gradus
+
+scientiae· remotiores, ut et latus icosigoni et· reliqua hujus classis figurarum.
+
+Nam latus pentagoni FH (fig. 13) ductum in AN facit duplum FAH, quintae par·
+tis areae pentagonicae. Est vero FH elasson‚ et AN εει talis, quae potest effabile
+AF, diminutum potentia classonis FN. Si ⁴,autem quod est ab classone, auferatur ab
+eo, quod est ab effabili,- relinquitur nova species lineae, quae potest tale residuum.
+
